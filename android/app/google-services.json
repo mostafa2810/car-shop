@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1013337787168",
+    "project_id": "car-zone-783fa",
+    "storage_bucket": "car-zone-783fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013337787168:android:44dad9b549514678a4e545",
+        "android_client_info": {
+          "package_name": "com.example.car_zone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013337787168-as2q0tcph2rdohjohbvlu128fl9vibj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.car_zone",
+            "certificate_hash": "b7de35bb56580031928eb399c47ef76df929d294"
+          }
+        },
+        {
+          "client_id": "1013337787168-vb4f3heqkussh38nfklal3kaqoik04cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxlh5ik2ozPciewrKU2wPKpG_AqsBKlhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013337787168-vb4f3heqkussh38nfklal3kaqoik04cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
